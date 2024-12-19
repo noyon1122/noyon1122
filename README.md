@@ -2,7 +2,7 @@
 #### Web Developer
 A passionate problem solver and MERN stack developer from Bangladesh
 
-Skills:  REACT / JS / HTML / CSS/Express JS/ MongoDB
+Skills:Spring Boot/  REACT / JS / HTML / CSS/Express JS/ MongoDB
 
 - 🔭 I’m currently working on improving programming skill 
 - 🌱 I’m currently learning JS,React,Express JS,Node.js,Algarithm 
