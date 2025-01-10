@@ -2,12 +2,12 @@
 #### Web Developer
 A passionate problem solver and Java developer from Bangladesh
 
-Skills:Spring Boot/  REACT / JS / HTML / CSS/Express JS/ MongoDB
+Skills:Java,C,C++,Spring Boot/  REACT / JS / HTML / CSS// MySQL
 
 - 🔭 I’m currently working on improving programming skill 
-- 🌱 I’m currently learning JS,React,Express JS,Node.js,Algarithm 
+- 🌱 I’m currently learning Spring Boot,JS,React,Algarithm 
 - 🤔 I’m looking for help with passionate problem solver and developer 
-- 💬 Ask me about Algorithm, Data Structures,Node.js, React, Firebase, MongoDB... or anything 
+- 💬 Ask me about Algorithm, Data Structures,Spring Boot, React, MySQL... or anything 
 - 📫 How to reach me: noyonhossain910@gmail.com 
 - ⚡ Fun fact: I like travelling and reading books 
 
