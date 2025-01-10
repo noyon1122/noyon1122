@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Noyon Hossain
 #### Web Developer
-A passionate problem solver and MERN stack developer from Bangladesh
+A passionate problem solver and Java developer from Bangladesh
 
 Skills:Spring Boot/  REACT / JS / HTML / CSS/Express JS/ MongoDB
 
